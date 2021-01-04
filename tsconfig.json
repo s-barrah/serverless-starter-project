@@ -61,6 +61,7 @@
     "_warmup/**/*",
     ".vscode/**/*",
     "dist/**/*",
+    ".idea/**/*",
     "tests/**/*",
     "**/**/*.test.ts"
   ]
